@@ -14,3 +14,4 @@ A FHEVM Hardhat-based template for developing Solidity smart contracts.
 - [Write FHEVM Tests using Hardhat](https://docs.zama.ai/protocol/solidity-guides/development-guide/hardhat/write_test)
 - [FHEVM Hardhart Plugin](https://docs.zama.ai/protocol/solidity-guides/development-guide/hardhat)
 Commit 1 line
+Commit 2 line
